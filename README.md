@@ -1,1 +1,1 @@
-# globallogic
+The application that spawns threads goes to sleep in them for a certain short time (within a few milliseconds), and logs the exact time at the beginning and end of the sleep. It then calculates the difference between the requested sleep time and the real one, and displays this result.
